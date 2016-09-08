@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<application id="LocalAuth" name="LocalAuth">
+    <container isflex="false" displayname="Form" id="frm1" type="form"/>
+    <globalsequences/>
+    <skins/>
+</application>

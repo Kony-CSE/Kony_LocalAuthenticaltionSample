@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project name="LocalAuth" path="E:\MyWork_Kony\FTR's_Features\TouchId\IPhone Team Doc's\LocalAuth">
+    <channel type="mobile"/>
+    <channel type="tablet"/>
+    <channel type="desktop"/>
+    <keywordSkinID>titleBar</keywordSkinID>
+</project>

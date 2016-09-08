@@ -1,0 +1,18 @@
+{
+    "AS_Button_55390abc4108469fbe3680462289584e": {
+        "id": "AS_Button_55390abc4108469fbe3680462289584e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_17300dee80e8492fab4033834055a827",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "cancel_onclick_callback",
+            "display": "cancel_onclick_callback",
+            "inputparams": [],
+            "callbackType": null
+        }]
+    }
+}

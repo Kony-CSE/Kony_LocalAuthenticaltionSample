@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "35%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s8b47b87103e4a03b0e51ad32ae71840",
+    "_text_": "cancel",
+    "_top_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "33%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sc9a1a62026a4a7fa042b0c8ecd4c1fe",
+    "id": "btnpasscancel",
+    "ide_onClick": "AS_Button_049c582dd60b49a6a295d4ca596113be",
+    "info": null,
+    "isvisible": true,
+    "kuid": "4470e2b017c04512b06e8f83e419c971",
+    "name": "kony.ui.Button",
+    "parent": "flxpasspopuphorzchild",
+    "pf": "frmMain",
+    "wType": "Button",
+    "zindex": 1
+}

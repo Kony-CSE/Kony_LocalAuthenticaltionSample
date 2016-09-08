@@ -1,0 +1,18 @@
+{
+    "AS_Button_27410e4e841d4b3bbd55c05399fce062": {
+        "id": "AS_Button_27410e4e841d4b3bbd55c05399fce062",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_d0882ccf28f34b69aad13801075678b6",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "usepassword_onclick_callback",
+            "display": "usepassword_onclick_callback",
+            "inputparams": [],
+            "callbackType": null
+        }]
+    }
+}

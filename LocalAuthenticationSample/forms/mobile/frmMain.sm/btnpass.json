@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "2.00%"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "1.00%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "38%"
+    },
+    "_skin_": "s8b47b87103e4a03b0e51ad32ae71840",
+    "_text_": "ok",
+    "_width_": {
+        "type": "string",
+        "value": "29%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sc9a1a62026a4a7fa042b0c8ecd4c1fe",
+    "id": "btnpass",
+    "ide_onClick": "AS_Button_3f97964a2aa3487b9e2adc53dca1f747",
+    "info": null,
+    "isvisible": true,
+    "kuid": "c76f0540429a424aaeccfdaabc394b17",
+    "name": "kony.ui.Button",
+    "parent": "flxpasspopuphorzchild",
+    "pf": "frmMain",
+    "wType": "Button",
+    "zindex": 1
+}

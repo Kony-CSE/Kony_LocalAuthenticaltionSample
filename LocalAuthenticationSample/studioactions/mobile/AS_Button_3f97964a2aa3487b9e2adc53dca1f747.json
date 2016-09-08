@@ -1,0 +1,18 @@
+{
+    "AS_Button_3f97964a2aa3487b9e2adc53dca1f747": {
+        "id": "AS_Button_3f97964a2aa3487b9e2adc53dca1f747",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_b17dccf4da514bf49c11f8bef9f9c958",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "passpopup_ok_onclick_callback",
+            "display": "passpopup_ok_onclick_callback",
+            "inputparams": [],
+            "callbackType": null
+        }]
+    }
+}

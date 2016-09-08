@@ -1,0 +1,17 @@
+{
+    "p2kwiet15892592062299_button202105425413519_onClick_seq0": {
+        "id": "p2kwiet15892592062299_button202105425413519_onClick_seq0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "eventobject",
+            "value": "eventobject"
+        }],
+        "actions": [{
+            "id": "customcode_onClick_75425158925920691",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "authUsingTouchID",
+            "display": "authUsingTouchID",
+            "inputparams": []
+        }]
+    }
+}

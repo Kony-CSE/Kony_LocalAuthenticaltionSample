@@ -1,0 +1,25 @@
+{
+    "AS_Button_7fecb25b58f64587b41eeb81bb7c8533": {
+        "id": "AS_Button_7fecb25b58f64587b41eeb81bb7c8533",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMain",
+            "type": "forms",
+            "platform": null,
+            "KUID": "adbdc05137284aae9eb6a361f897a3fa"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ee9760aa10ed4e4492d93fbfbd188183",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "isFingerPrintSupportedWithDevice",
+            "display": "isFingerPrintSupportedWithDevice",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

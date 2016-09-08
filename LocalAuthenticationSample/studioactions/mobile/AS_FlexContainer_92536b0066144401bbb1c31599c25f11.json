@@ -1,0 +1,29 @@
+{
+    "AS_FlexContainer_92536b0066144401bbb1c31599c25f11": {
+        "id": "AS_FlexContainer_92536b0066144401bbb1c31599c25f11",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmMain",
+            "type": "forms",
+            "platform": null,
+            "KUID": "adbdc05137284aae9eb6a361f897a3fa"
+        },
+        "actions": [{
+            "id": "ADD_SNIPPET__c9879a67bb57493bbf758cb7a0db91fc",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"parent onclick\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}
